@@ -1,0 +1,94 @@
+.align{
+	text-align:center;
+	margin:0px;
+	width:100%;
+	color:white;
+	}
+#img{
+	font-size:30px;
+	padding:250px;
+	height:80px;
+	text-align:left;
+	background-image:url("food.jfif");
+	color:white;
+}
+#img1{
+	font-size:20px;
+	font-family:"calibri";
+	width:400px;
+	height:200px;
+	background-color:#FFFF66;
+	margin-left:50px;
+	margin-right:50px;
+	text-align:center;
+	text-decoration:underline;
+	color:white;
+	}
+#searchbar
+	{
+	border-radius:10px;
+	border-color:grey;
+	border-style:solid;
+	color:black;
+	width:500px;
+	height:20px;
+	position:center;
+	}
+.color{
+	margin:0px;
+}
+a:link{
+	color:white;
+	text-decoration:none;
+}
+a:visited{
+	color:white;
+	text-decoration:none;
+}
+a:hover{
+	color:red;
+}
+#img2{
+	width:350px;
+	height:200px;
+	background-color:blue;
+	margin:10px;
+}
+#img3{
+	width:100px;
+	height:100px;
+	background-color:blue;
+	margin:10px;
+	
+}
+.style{
+	background-color:ORANGE;
+	margin:0px;
+	color:white;
+}
+#login{
+	float:right; 
+	margin:100px;
+	width:500px;
+	height:500px;
+}
+.grey{
+	background-color:#DCDCDC;
+}
+#p{
+font-size:20px;
+font-style:italic;
+color:black;
+text-align:center;
+margin-top:50px;
+margin-bottom:50px;
+line-height:1.5;
+}	
+.end{
+width:100%;
+color:white;
+text-align:center;
+background-color:orange;
+font-style:italic;
+}
+<table><tr><td  style="width:320px;" ></td><td><input id="searchbar" type="text" placeholder="search" name="search"/></td></tr></table>
